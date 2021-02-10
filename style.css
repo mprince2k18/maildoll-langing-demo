@@ -11566,7 +11566,7 @@ div.tp-bullets{
 }
 #back-to-top.show {
   opacity: 1;
-  right: 40px;
+  right: 100px;
 }
 #back-to-top i:after, #back-to-top i:before {
   font-size: 20px;
