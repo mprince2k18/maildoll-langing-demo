@@ -127,6 +127,8 @@ small {
   font-size: 80%;
 }
 
+
+
 /**
  * Prevent `sub` and `sup` elements from affecting the line height in
  * all browsers.
@@ -9994,7 +9996,6 @@ div.tp-bullets{
 .partners-6 .partners-slide-image {
     -webkit-filter: none;
     filter: none;
-    opacity: .8;
     max-width: none;
 }
 .partners-6 .partners-slide-image:hover {
@@ -12243,3 +12244,9 @@ div.tp-bullets{
   }
 }
 /*# sourceMappingURL=style.css.map */
+
+.f-33 {
+  font-size: 33px !important;
+  font-weight: 700;
+  color: #fff;
+}
