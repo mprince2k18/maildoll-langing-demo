@@ -154,6 +154,7 @@ sup {
  */
 img {
   border-style: none;
+  border-radius: 8px;
 }
 
 /* Forms
